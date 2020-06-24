@@ -1,0 +1,5 @@
+11:34:34.187 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@288a4658
+11:34:34.192 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5b56b654
+11:34:34.194 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@452c8a40
+11:34:42.156 [main] INFO  joinassembly.LoginPageValidation - Navigated to the provided URL
+11:34:43.345 [main] ERROR joinassembly.LoginPageValidation - Invalid credentials :(
